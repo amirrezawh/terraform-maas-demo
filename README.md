@@ -14,3 +14,6 @@ Now You can apply the terraform:
 
 
 `terraform apply`
+
+
+[@dwsclass](https://github.com/dwsclass) dws-ops-002-terraform
